@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    margin: 20px;
+    width: 600px;
+    height: 450px;
+    background-color: white;
+    box-sizing: border-box;
+    /* border-top: 80px solid yellow; */
+    
+}
+
+.first{
+    width: 600px;
+    height: 80px;
+    box-sizing: border-box;
+    background-color: yellow;
+    
+}
+
+.one{
+    margin-top: 10px;
+    width: 430px;
+    height: 280px;
+    background-color: yellow;
+    box-sizing: border-box;
+    float: left;
+}
+
+.two{
+    margin-top: 10px;
+    width: 160px;
+    height: 360px;
+    background-color: white;
+    box-sizing: border-box;
+    margin-left: 440px;
+
+}
+.two1{
+    width: 80px;
+    height: 360px;
+    background-color: yellow;
+    float: left;
+}
+
+.two2{
+    width: 70px;
+    height: 360px;
+    background-color: yellow;
+    margin-left: 90px;
+}
+.one1{
+    width: 430px;
+    height: 70px;
+    box-sizing: border-box;
+    background-color: yellow;
+    margin-top: 271px;
+}
+div{
+    text-align: center;
+    font-family: Bahnschrift SemiBold;
+    
+}
